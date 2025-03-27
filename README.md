@@ -1,2 +1,1 @@
-# precurse-hery
-repositorio de prueba modulo 2
+"este proyecto es un pureba de como crear un repositorio "
